@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/vss_website_san/static/css/main.80b9ef6c.css",
+    "main.js": "/vss_website_san/static/js/main.951dc347.js",
+    "static/js/592.987b85a2.chunk.js": "/vss_website_san/static/js/592.987b85a2.chunk.js",
+    "static/media/cloud.jpg": "/vss_website_san/static/media/cloud.11642894765c03e1d7e8.jpg",
+    "static/media/paras.jpg": "/vss_website_san/static/media/paras.fa598ee2f5bba494cd9e.jpg",
+    "static/media/ai.jpg": "/vss_website_san/static/media/ai.edf2408a3dd0aec288d1.jpg",
+    "static/media/bummble.png": "/vss_website_san/static/media/bummble.6af7a8d2e361572f3fbd.png",
+    "static/media/web.jpg": "/vss_website_san/static/media/web.30d8e0d188ca82e81546.jpg",
+    "static/media/vishal.jpg": "/vss_website_san/static/media/vishal.b481846560653d5ea619.jpg",
+    "static/media/app.jpg": "/vss_website_san/static/media/app.20ccbbdfd0e9f8795b66.jpg",
+    "static/media/ui.jpg": "/vss_website_san/static/media/ui.cca3fc1189e2ce8c2961.jpg",
+    "static/media/ecrc.jpg": "/vss_website_san/static/media/ecrc.8a0f2a70cfae88a799ec.jpg",
+    "static/media/Sandeep.jpg": "/vss_website_san/static/media/Sandeep.3b0fdd5d0cff3c124fea.jpg",
+    "static/media/Asha.jpg": "/vss_website_san/static/media/Asha.8e32b1edc8bddeb105bf.jpg",
+    "static/media/Supriya.jpg": "/vss_website_san/static/media/Supriya.fece695cda72dcb158d4.jpg",
+    "static/media/Hirshi.jpg": "/vss_website_san/static/media/Hirshi.86d9e35f480edc35c264.jpg",
+    "static/media/hms.png": "/vss_website_san/static/media/hms.82ced77c0717a9a6735b.png",
+    "static/media/optimus.png": "/vss_website_san/static/media/optimus.f32ae05d8a2f95334222.png",
+    "static/media/cat.jpeg": "/vss_website_san/static/media/cat.e0f1a048c46be9523420.jpeg",
+    "static/media/love.jpeg": "/vss_website_san/static/media/love.5a94c2b519d982d49e71.jpeg",
+    "static/media/power.jpeg": "/vss_website_san/static/media/power.34ea8aa5a9171456be9b.jpeg",
+    "static/media/bird.jpeg": "/vss_website_san/static/media/bird.0554bc4c74370ee9830b.jpeg",
+    "static/media/Preeti.jpg": "/vss_website_san/static/media/Preeti.b9af44579cee0138c559.jpg",
+    "static/media/jack.jpeg": "/vss_website_san/static/media/jack.0f14b6528ca9b3352243.jpeg",
+    "static/media/logoimg.png": "/vss_website_san/static/media/logoimg.26cbdaf5f0f0d92a0a62.png",
+    "static/media/pic.webp": "/vss_website_san/static/media/pic.6c5fc4ebe7462eaafbad.webp",
+    "index.html": "/vss_website_san/index.html",
+    "main.80b9ef6c.css.map": "/vss_website_san/static/css/main.80b9ef6c.css.map",
+    "main.951dc347.js.map": "/vss_website_san/static/js/main.951dc347.js.map",
+    "592.987b85a2.chunk.js.map": "/vss_website_san/static/js/592.987b85a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80b9ef6c.css",
+    "static/js/main.951dc347.js"
+  ]
+}
