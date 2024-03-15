@@ -3,7 +3,6 @@ import "./Games.css";
 import logoimg from "../../img/logoimg.png";
 import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
-import ReactCardSlider from "react-card-slider-component";
 import love from '../../img/love.jpeg'
 import cat from '../../img/cat.jpeg'
 import jack from '../../img/jack.jpeg'
